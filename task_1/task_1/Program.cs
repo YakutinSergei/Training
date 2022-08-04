@@ -1,2 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Програмист - это своего рода проводник бизнеса в мир автоматизации и контроля");
+Console.WriteLine("Програмистом хочу стать в первую очередь для того, что бы заниматься интересным мне делом, которое в тоже время не плохо оплачивается");
